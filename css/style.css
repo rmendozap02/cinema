@@ -1,0 +1,107 @@
+/* parte del banner*/
+* {
+	font-family: Arial;
+}
+
+.costado {
+	text-align: center;
+	position: relative;
+	top: 30px;
+}
+
+h4 {
+	color: silver;
+	text-align: center;
+}
+
+#searchform input {
+	padding: 10px;
+}
+
+.primera2 {
+	position: absolute;
+}
+
+.banner img {
+	width: 1300px;
+	height: 500px;
+}
+
+.hero {
+	width: 350px;
+	height: 500px;
+	color: #DDDDDD;
+	position: relative;
+	left: 450px;
+}
+
+.fchica img {
+	width: 70px;
+	height: 70px;
+	position: relative;
+	top: 230px;
+	left: 300px;
+}
+
+ul li {
+	list-style: none;
+}
+
+h3 button {
+	color: #2B8E3B;
+	border: 2px solid #2B8E3B;
+	padding: 10px;
+	background-color: transparent;
+	border-radius: 5px;
+}
+
+.boton1 span {
+	position: relative;
+	padding: 10px;
+	border-radius: 5%;
+	width: 80px;
+	height: 50px;
+	background-color: #F9C71B;
+}
+
+.boton2 span {
+	position: relative;
+	padding: 10px;
+	border-radius: 5%;
+	width: 80px;
+	height: 50px;
+	background-color: #F4A919;
+}
+/* segunda parte*/
+
+.fondo {
+	padding-left: 70px;
+	padding-right: 70px;
+	width: 1300px;
+	height: 300px;
+	background-color: #DBCB1B;
+	display: inline-block;
+	position: relative;
+	bottom: 10px;
+}
+.fondo img {
+	width: 160px;
+	height: 240px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#youtube {
+	display: inline-block;
+	width: 1300px;
+	height: 500px;
+	position: relative;
+	bottom: 15px;
+}
+
+/* tercera parte*/
+
+article {
+	display: inline-block;
+}
+
